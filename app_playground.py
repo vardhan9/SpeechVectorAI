@@ -530,7 +530,7 @@ def main():
     load_custom_css()
     
     st.title("🤝 AI Interview Coach")
-    st.markdown("Master your interview skills with AI-powered application, Designed and Developed by Raja Marthala")
+    st.markdown("Master your interview skills with AI-powered practice and feedback")
     
     sidebar_controls()
     display_chat()
